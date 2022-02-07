@@ -1,0 +1,4 @@
+Nama 	: Mochammad Fchorrozi
+Umur 	: 23 Tahun
+Stack 	: Full Stack Developer
+Bahasa Pemrograman : PHP
